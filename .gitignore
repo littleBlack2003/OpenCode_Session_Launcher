@@ -1,0 +1,31 @@
+# Build outputs and release artifacts
+*.exe
+*.dll
+*.pdb
+*.zip
+/dist/
+/app/SHA256SUMS.txt
+/app/LICENSE
+/tests/gui-preview.png
+
+# Local application state and conversation exports
+launcher-manifest.json*
+settings.json*
+opencode_sessions_*.json
+*.db
+*.db-shm
+*.db-wal
+*.log
+*.tmp
+*.bak
+.env
+.env.*
+
+# Editor and OS files
+.vs/
+.vscode/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+Desktop.ini

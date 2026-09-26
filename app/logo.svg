@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="OpenCode Sessions">
+<title>OpenCode Sessions</title>
+<!-- Copyright (c) 2026 Xiaohei Wu. xiaohei.wu@whu.edu.cn -->
+<path fill="#172B2B" d="M14,0 H50 Q64,0 64,14 V50 Q64,64 50,64 H14 Q0,64 0,50 V14 Q0,0 14,0 Z"/>
+<path fill="#EDF8F2" d="M18,15 H46 Q52,15 52,21 V39 Q52,45 46,45 H33 L21,54 V45 H18 Q12,45 12,39 V21 Q12,15 18,15 Z"/>
+<path fill="#236B55" d="M25,22 L28,25 L22,30 L28,35 L25,38 L16,30 Z M39,22 L48,30 L39,38 L36,35 L42,30 L36,25 Z"/>
+<path fill="#57AA88" d="M33,22 H36 L31,38 H28 Z"/>
+</svg>
